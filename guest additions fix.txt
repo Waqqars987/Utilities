@@ -1,0 +1,3 @@
+sudo adduser $USER vboxsf
+
+sudo apt-get install --reinstall build-essential virtualbox-guest-utils virtualbox-guest-x11 virtualbox-guest-dkms
