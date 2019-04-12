@@ -1,0 +1,14 @@
+git status
+
+
+git add *
+
+
+git status
+
+
+git commit -m "changes"
+
+
+git push -u origin master
+

@@ -1,0 +1,25 @@
+1.	sudo adduser $USER vboxsf
+
+
+
+
+
+2.	sudo du -sh /var/cache/apt/archives && sudo apt-get clean && sudo apt-get autoremove --purge
+
+
+
+
+
+3.	git clone https://github.com/sunilblockchainpoc/B2B/	
+	
+	git clone https://github.com/sunilblockchainpoc/Shrimps_Ethereum.git
+
+
+
+
+
+
+4.	sudo apt-get install openssh-server openssh-client
+	
+	scp filename.extension machine_name@destination_ip:/destination_path/.
+

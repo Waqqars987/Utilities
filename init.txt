@@ -1,0 +1,1 @@
+geth init customgenesis.json --datadir /home/waqqar/Blockchain/DataDir/

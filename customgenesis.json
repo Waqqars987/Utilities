@@ -1,0 +1,22 @@
+{
+  "config": {
+    "chainId": 2018,
+    "ByzantiumBlock": 0,
+    "homesteadBlock": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "identity": "ITCPrivateNetwork"
+  },
+  "nonce": "0x0000000000000033",
+  "timestamp": "0x0",
+  "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "gasLimit": "0x800000000",
+  "difficulty": "0x100",
+  "mixhash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "coinbase": "0x0000000000000000000000000000000000000000",
+  "alloc": {
+    "1c0c7e0ea81bf6aca816b7c9fcac64a892755084": {
+      "balance": "7000000000000000000000"
+    }
+  }
+}

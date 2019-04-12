@@ -1,0 +1,13 @@
+var batchStateEnum = new Enum({
+
+  'Received By Procurement': 0,
+  'Acknowledged By Farmer': 1,
+  'Approved By Procurement': 2,
+  'Rejected By Procurement': 3,
+  'Received By Internal QA': 4,
+  'Approved By Internal QA': 5,
+  'Rejected By Internal QA': 6
+
+});
+
+statusEnum.get(parseInt(userDetails[4])).key

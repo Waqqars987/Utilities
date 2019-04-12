@@ -1,0 +1,7 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+launchcommands:-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PRIVATE_CONFIG=/home/waqqar/constellation/datadir/constellation.ipc geth --identity "ITCPrivateNetwork" --networkid 2018 --datadir /home/waqqar/Blockchain/Datadir/ --nodiscover --raft --rpc --rpcaddr "0.0.0.0" --rpccorsdomain "*" --rpcapi "admin,db,eth,debug,miner,net,shh,txpool,web3,personal,web3,quorum" --emitcheckpoints --permissioned --raftport 50402 --rpcport 22000 --port 21000 --gasprice "0" --targetgaslimit "600000000000000" --verbosity 3 console
+
+________________________________________________________________________________________________________________________________________________________________

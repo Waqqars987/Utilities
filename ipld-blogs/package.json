@@ -1,0 +1,17 @@
+{
+  "name": "ipld-blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cids": "^0.5.7",
+    "ipfs-http-client": "^29.1.1",
+    "ipld-dag-pb": "^0.15.2",
+    "nodemon": "^1.18.10"
+  }
+}

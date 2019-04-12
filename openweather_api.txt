@@ -1,0 +1,5 @@
+api.openweathermap.org/data/2.5/weather?id=1275004&units=metric&APPID=84a070758462174005f30a6dc80267d4
+
+json(https://api.openweathermap.org/data/2.5/weather?id=1275004&units=metric&APPID=84a070758462174005f30a6dc80267d4).main.temp
+
+---------------------------------------------------------------------------------------------------------------------------------------

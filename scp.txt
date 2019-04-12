@@ -1,0 +1,1 @@
+scp source_file_name username@destination_host:destination_folder

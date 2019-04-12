@@ -1,0 +1,7 @@
+new Date(parseInt(userDetails[5])).toISOString().slice(0, 10),
+
+
+(parseInt(farmerProfile2[8])==0)?"":new Date(parseInt(farmerProfile2[8])).toISOString().replace("T", " ").replace("Z", "")
+
+
+isNaN(Date.parse(req.body.Dob)) ? 0 : Date.parse(req.body.Dob);
