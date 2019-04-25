@@ -1,0 +1,8 @@
+First, edit robots.txt in the go root directory, and remove "Disallow: /". 
+
+Then start godoc:
+godoc -http=:8080
+
+And finally download a working static docs, including static
+files and with proper links:
+wget -r -np -N -E -p -k http://localhost:8080/pkg/
