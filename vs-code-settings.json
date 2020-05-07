@@ -1,0 +1,28 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "prettier.alignObjectProperties": true,
+    "sync.autoUpload": true,
+    "turboConsoleLog.addSemicolonInTheEnd": true,
+    "turboConsoleLog.quote": "'",
+    "prettier.jsxSingleQuote": true,
+    "editor.formatOnSave": true,
+    "sync.gist": "3cb01b7cd96370d0495be4cd08aa543c",
+    "prettier.spaceBeforeFunctionParen": true,
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Night Owl",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "explorer.confirmDragAndDrop": false,
+    "prettier.arrowParens": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "explorer.compactFolders": false
+}
